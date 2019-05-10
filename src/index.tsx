@@ -7,6 +7,7 @@ import "./index.css";
 import * as serviceWorker from "./serviceWorker";
 
 // use by simply providing the color prop to the component
+// example: <Button color="primary">Primary</Button>
 const theme = createMuiTheme({
   palette: {
     primary: { main: "#2c6157" },
