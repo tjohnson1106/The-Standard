@@ -1,7 +1,7 @@
 import * as React from "react";
 import moment from "moment";
-// pending
-import { chats } from "../../db";
+
+import { chats } from "../../data/db";
 
 export const ChatList = () => {
   return (
