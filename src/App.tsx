@@ -2,7 +2,7 @@ import React from "react";
 
 import { ChatsListScreen } from "./pages/ChatListScreen";
 
-// import "./App.css";
+import "./App.css";
 
 const App: React.FC = () => {
   return (
